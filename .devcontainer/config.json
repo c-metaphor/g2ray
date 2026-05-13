@@ -27,10 +27,10 @@
       "settings": {
         "clients": [
           {
-            "id": "aca538df-f70b-4abe-b81b-dcadbe566272",
+            "id": "2c843e40-1925-4e8a-abc8-465ca63c0a9b",
             "flow": "",
             "level": 0,
-            "email": "user@storm-tunnel-379e32"
+            "email": "user@storm-proxy-792d65"
           }
         ],
         "decryption": "none"

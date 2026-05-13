@@ -1,5 +1,5 @@
 {
-  "name": "nova-shield-f577bf",
+  "name": "storm-proxy-792d65",
   "build": {
     "dockerfile": "Dockerfile",
     "context": "."
@@ -15,7 +15,7 @@
   "postAttachCommand": "gh codespace ports visibility 443:public -c $CODESPACE_NAME && bash /usr/local/bin/start.sh",
   "portsAttributes": {
     "443": {
-      "label": "nova-shield-f577bf",
+      "label": "storm-proxy-792d65",
       "protocol": "http",
       "onAutoForward": "silent"
     }
